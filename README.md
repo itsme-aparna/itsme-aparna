@@ -44,9 +44,9 @@
   <br/>
     <!-- <a href="https:/itsme-aparna/github.com//github-readme-streak-stats"><img alt="Ayush Senapati's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsme-aparna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
     <p align="center">
-    <a align="center"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsme-aparna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="380" height="380"/></a>
+    <a align="center"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsme-aparna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <!-- <a href="https://github.com/itsme-aparna/github-readme-streak-stats"><img alt="Ayush Senapati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-aparna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-  <a align="center"><img alt="Aparna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-aparna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="330" height="330"/></a>
+  <a align="center"><img alt="Aparna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-aparna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
   <br/>
   
