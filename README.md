@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aparna</h1>
-<h3 align="center">A passionate learner</h3>
 
 - 🌱 I’m currently learning **MERN Stack develpoment**
 
@@ -11,7 +10,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -45,9 +44,9 @@
   <br/>
     <!-- <a href="https:/itsme-aparna/github.com//github-readme-streak-stats"><img alt="Ayush Senapati's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsme-aparna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
     <p align="center">
-    <a align="center"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsme-aparna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a align="center"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsme-aparna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="380" height="380"/></a>
   <!-- <a href="https://github.com/itsme-aparna/github-readme-streak-stats"><img alt="Ayush Senapati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-aparna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-  <a align="center"><img alt="Aparna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-aparna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a align="center"><img alt="Aparna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-aparna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="330" height="330"/></a>
   </p>
   <br/>
   
