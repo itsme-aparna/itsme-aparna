@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aparna</h1>
 
-- 🌱 I’m currently learning **MERN Stack develpoment**
+- 🌱 I’m currently learning **MERN Stack development**
 
 - 📫 How to reach me **aparnapatro2001@gmail.com**
 
