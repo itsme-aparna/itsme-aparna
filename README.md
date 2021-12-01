@@ -33,7 +33,6 @@
 <br/>
 
 <p align="center">
-    <!-- <a href="https://github.com/Ayush29Ayush/github-readme-streak-stats"> -->
     <a >
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aparna's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsme-aparna&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -58,10 +57,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/aparna-patra-4b07381a3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-<!-- <a href = "https://twitter.com/ayushsenapati"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
-<!-- <a href = "https://www.instagram.com/instru_mental_guy/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
-<!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
 
