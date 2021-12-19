@@ -49,11 +49,11 @@
   </p>
   <br/>
   
-## Contribution Graph
+## 💻 Contribution Graph
 [![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsme-aparna&theme=react-dark)](https://github.com/itsme-aparna/github-readme-activity-graph)
 
 
-## Connect with me:
+## 💬 Connect with me:
 
 <p align="left">
 
