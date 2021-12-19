@@ -4,8 +4,10 @@
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   
  </p>
+ 
+- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, etc.
 
-- 🌱 I’m currently learning **MERN Stack development**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **aparnapatro2001@gmail.com**
 
