@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
+- 📫 Want to know me in a nutshell? Visit my [Portfolio](https://aparna-patra.netlify.app/)
+
 - 📫 How to reach me **aparnapatro2001@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1de39w7Ivjpz0C7ItHGL1jc7yrm2yEUlB/view?usp=sharing)
